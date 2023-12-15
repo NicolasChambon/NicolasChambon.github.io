@@ -1,0 +1,53 @@
+body {
+    box-sizing: border-box;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: rgb(28, 111, 189);
+    font-size: 1.2em;
+    font-weight: 500;
+    padding-bottom: 1em;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 1em;
+    padding-bottom: 0.6em;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 0.8em;
+    padding-bottom: 1.5em;
+}
+
+#job_title {
+    font-size: 1.2em;
+    padding-bottom: 1em;
+    text-transform: uppercase;
+}
+
+#lateral_panel {
+    background-color: rgb(228, 228, 228);
+    padding: 2em;
+    width: 25%;
+}
+
+#main_section {
+    padding: 2em;
+    width: 75%;
+}
+
+#surname {
+    color: rgb(28, 111, 189);
+}
+
+
