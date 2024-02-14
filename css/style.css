@@ -25,12 +25,12 @@ h3 {
 }
 
 p {
-    font-size: 0.8em;
+    font-size: 1.5em;
     padding-bottom: 1.5em;
 }
 
 .main-section {
-    margin: 50vh auto;
+    margin: 40vh auto;
     text-align: center;
     width: 50%;
 }
