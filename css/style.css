@@ -20,13 +20,9 @@ body {
 }
 
 .main-section a {
-    display: block;
-    margin: auto;
-    padding: 1rem 0;
     text-shadow: 0px 0px 15px rgb(0, 0, 0);
     transition: color 0.3s ease;
     transition: text-shadow 0.3s ease;
-    width: 30%;
 }
 
 .main-section a:hover {
