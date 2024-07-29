@@ -13,10 +13,10 @@ body {
 
 .main-section {
     margin: 0 auto;
-    padding-top: 40vh;
+    padding-top: 20vh;
     text-align: center;
     text-shadow: 0px 0px 15px rgb(66, 98, 124);
-    width: 50%;
+    width: 95%;
 }
 
 .main-section a {
@@ -45,6 +45,41 @@ body {
 
 .section-title {
     font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.project-cards {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    gap: 2rem;
+    width: 70rem;
+}
+
+.project-card {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 15px rgb(0, 0, 0);
+    padding: 1rem;
+    
+}
+
+.project-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+
+.project-card p {
+    font-size: 1rem;
+    font-weight: 200;
+    margin-bottom: 0.5rem;
+}
+
+.project-card video,
+.project-card img {
+    border-radius: 0.5rem;
+    width: 100%;
 }
 
 .footer-section {
@@ -61,5 +96,3 @@ body {
 .background-credit a {
     color: rgb(122, 224, 255);
 }
-
-
