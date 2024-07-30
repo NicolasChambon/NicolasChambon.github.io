@@ -69,11 +69,14 @@ body {
     margin-bottom: 0.5rem;
 }
 
-
 .project-card p {
     font-size: 1rem;
     font-weight: 200;
     margin-bottom: 0.5rem;
+}
+
+.project-card p.wepeak {
+    margin-bottom: 2rem;
 }
 
 .project-card video,
