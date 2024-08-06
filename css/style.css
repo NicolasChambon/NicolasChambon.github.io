@@ -11,6 +11,18 @@ body {
     height: 100vh;
 }
 
+.redirection-message {
+    background-color: rgba(228, 187, 187, 0.5);
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 15px rgb(0, 0, 0);
+    color: rgb(218, 71, 71);
+    font-size: 3rem;
+    margin: 0 auto 3rem auto;
+    padding: 1rem;
+    text-align: center;
+    width: 50%;
+}
+
 .main-section {
     margin: 0 auto;
     padding-top: 20vh;
